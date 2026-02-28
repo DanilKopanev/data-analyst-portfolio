@@ -17,3 +17,6 @@ Data analyst projects: EDA, SQL queries, investment market segmentation, visuali
 6. startup_analysis.ipynb
 - Analysis of startup and investment data: revenue, growth metrics, and unit economics (depending on the dataset).  
 - Shows EDA, segmentation, and building metrics to support investor or product decisions.
+7. yandex_delivery.pdf
+- Slide deck for a Yandex Delivery PM intern test task.
+- Analyzes the A–B–C intercity delivery model and proposes initiatives to grow revenue, improve profitability, and optimize capacity utilization based on the provided test data.
