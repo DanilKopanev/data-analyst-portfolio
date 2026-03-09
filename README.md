@@ -4,7 +4,12 @@ Data analyst projects: EDA, SQL queries, investment market segmentation, visuali
 ## Projects
 
 1. Customer support requests analysis — [Google Sheets](https://docs.google.com/spreadsheets/d/19e4kItFgGJzPUeMXHh-CEgD0qE6d8gTmy5p7-WL3e8Q/edit?gid=0#gid=0)
-2. Dota 2 game analysis — [interactive dashboard in Yandex DataLens](https://datalens.yandex/j1qxzndk3mtw4?_theme=dark)
+2. Dota 2 game analysis — [Interactive dashboard in Yandex DataLens](https://datalens.yandex/j1qxzndk3mtw4?_theme=dark)  
+- Match-level Dota 2 statistics: player performance, heroes, roles, and team outcomes over time.  
+- Shows ability to design a game analytics dashboard, define key engagement metrics, and build clear visualizations in Yandex DataLens.
+3. Charity donors cohort analysis — [Interactive dashboard in Yandex DataLens](https://datalens.yandex/gg9eqrrgg5sk0)  
+- Cohort analysis of donors for the “AIF. Dobroe Serdce” charity fund: MAU dynamics, retention by gender, average check, and LTV by region.  
+- Uses PostgreSQL (via Yandex DataLens), joins, aggregations, window functions, and core product metrics (retention, LTV, ARPU-style indicators).
 3. analyst-hh.sql
 - SQL queries for analyzing data analyst job postings from HH.ru: data cleaning, filtering by skills, salary levels, and experience requirements.  
 -  Highlights the ability to translate business questions into analytical SQL queries.
