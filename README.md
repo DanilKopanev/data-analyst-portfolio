@@ -1,7 +1,12 @@
-# Портфолио аналитика данных
-Data analyst projects: EDA, SQL queries, investment market segmentation, visualizations. Python, Pandas, SQL, Plotly, Seaborn.
+# Портфолио продуктового аналитика
+Fortune smiles on the prepared mind. — Louis Pasteur
 
 ## Содержание
+- [О себе](#о-себе)
+- [Пет-проекты](#пет-проекты)
+- [Яндекс Практикум](#яндекс-практикум)
+- [Сертификаты](#сертификаты)
+- [Контакты](#контакты)
 
 ## О себе
 
