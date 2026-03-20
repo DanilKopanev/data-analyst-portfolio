@@ -46,4 +46,4 @@ Fortune smiles on the prepared mind. — Louis Pasteur
 ## Контакты
 - [Telegram](https://t.me/DaniKopa)
 - [VK](https://vk.com/dani06kopa)
-- [Email](danechka.kopanev@yandex.ru)
+- [Email](mailto:danechka.kopanev@yandex.ru)
