@@ -41,7 +41,8 @@ Fortune smiles on the prepared mind. — Louis Pasteur
 
 - Сертификат о прохождении курса «Продуктовый аналитик» (Яндекс Практикум) — будет получен после завершения обучения (курс в процессе).
 - Оригиналы подтверждения более 60+ пройденных внутренних курсов Яндекса (Квант)  
-(https://docs.google.com/spreadsheets/d/19e4kItFgGJzPUeMXHh-CEgD0qE6d8gTmy5p7-WL3e8Q/edit?usp=sharing) могу предоставить по запросу. [Список курсов](https://docs.google.com/spreadsheets/d/19e4kItFgGJzPUeMXHh-CEgD0qE6d8gTmy5p7-WL3e8Q/edit?usp=sharing)
+(https://docs.google.com/spreadsheets/d/19e4kItFgGJzPUeMXHh-CEgD0qE6d8gTmy5p7-WL3e8Q/edit?usp=sharing) могу предоставить по запросу.
+[Список курсов](https://docs.google.com/spreadsheets/d/19e4kItFgGJzPUeMXHh-CEgD0qE6d8gTmy5p7-WL3e8Q/edit?usp=sharing)
 
 ## Контакты
 - [Telegram](https://t.me/DaniKopa)
