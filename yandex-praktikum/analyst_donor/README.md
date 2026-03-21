@@ -19,7 +19,7 @@
 - Данные: анонимизированные таблицы DonorSearch (`user_anon_data`, `donation_anon`, `donation_plan`, `user_anon_bonus`).
 - Формат: один файл `analyst_donor.sql` с запросами и комментариями.
 
-## Структура файлов
+## Структура
 
 - `analyst_donor.sql` — основной файл:
   - Регионы доноров, динамика донаций, активные доноры.
