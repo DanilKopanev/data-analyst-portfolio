@@ -1,5 +1,5 @@
 
-# [Анализ дорожно‑транспортных происшествий в Кировской области](https://github.com/DanilKopanev/data-analyst-portfolio/blob/main/yandex-praktikum/road_accident_analysis)
+# [Анализ дорожно‑транспортных происшествий в Кировской области](https://github.com/DanilKopanev/data-analyst-portfolio/blob/main/yandex-praktikum/road_accident_analysis/road_accident_analysis.ipynb))
 
 Исследовательский проект по данным «Карты ДТП» для Кировской области.  
 Цель — понять, как число участников, погодные и дорожные условия и характеристики участников связаны с количеством пострадавших, и какие меры могут снизить аварийность.
