@@ -1,4 +1,4 @@
-# [Анализ донорской активности DonorSearch — `analyst_donor.sql`](https://github.com/DanilKopanev/data-analyst-portfolio/blob/main/yandex-praktikum/analyst_donor/analyst_donor.sql)
+# [Анализ донорской активности DonorSearch](https://github.com/DanilKopanev/data-analyst-portfolio/blob/main/yandex-praktikum/analyst_donor/analyst_donor.sql)
 
 Проект по анализу донорской активности в системе DonorSearch (donorsearch.org) в рамках Яндекс Практикума.  
 Цель — через SQL‑запросы понять регионы, динамику донаций, роль бонусов и соцсетей, а также предложить рекомендации по удержанию доноров.
