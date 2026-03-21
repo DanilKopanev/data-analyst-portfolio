@@ -14,7 +14,7 @@ Fortune smiles on the prepared mind. — Louis Pasteur
 - Опыт работы в поддержке B2B‑сервисов вебинаров и онлайн‑обучения (Пруффми, Яндекс).
 - Прохожу курс «Продуктовый аналитик» в Яндекс Практикуме, развиваюсь в продуктовой аналитике, SQL, Python и BI.
 
-## Пет проекты
+## Пет-проекты
 Проекты выполненные в личных интересах
 | № | Название проекта | Описание проекта | Статус | Стек |
 |---|------------------|------------------|--------|------|
@@ -48,3 +48,4 @@ Fortune smiles on the prepared mind. — Louis Pasteur
 - [Telegram](https://t.me/DaniKopa)
 - [VK](https://vk.com/dani06kopa)
 - Email: [danechka.kopanev@yandex.ru](danechka.kopanev@yandex.ru)
+- Телефон: 89519520525
