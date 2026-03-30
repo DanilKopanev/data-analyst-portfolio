@@ -2,7 +2,7 @@
 
 Привет, я Данил Копанев — продуктовый аналитик. Здесь собрано моё портфолио: продуктовые кейсы, проекты на Python и SQL, дашборды и учебные работы из Yandex Practicum.
 
-Fortune smiles on the prepared mind. — Louis Pasteur
+Hope is not a strategy. — Oscar Konyukhov
 
 ## Содержание
 - [О себе](#о-себе)
